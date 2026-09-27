@@ -1,8 +1,10 @@
 ## Hi there, I'm Sam👋
 
-✈️ MEng Aerospace Engineering @ University of Bristol — into aerodynamics & systems thinking
-🔧 Self-taught across mech eng, software & analytics projects
-🔎 Enjoy taking a big question, finding the facts, and telling a story with them
+✈️ MEng Aerospace Engineering @ University of Bristol
+
+🔧 Self-taught through mech eng, software, and research projects
+
+🔎 Enjoy taking a big question, finding out the facts, and telling a story
 <!--
 **samtravaglia/samtravaglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
