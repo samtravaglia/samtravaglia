@@ -4,7 +4,7 @@
 
 🔧 Self-taught through mech eng, software, and research projects
 
-🔎 Enjoy taking a big question, finding out the facts, and telling a story
+🔎 Enjoy taking a big question, finding the facts, and telling a story
 <!--
 **samtravaglia/samtravaglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
