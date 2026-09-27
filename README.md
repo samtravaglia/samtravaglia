@@ -1,4 +1,4 @@
-## Hi there, I'm Sam👋
+# Hi, I'm Sam👋
 
 ✈️ MEng Aerospace Engineering @ University of Bristol
 
